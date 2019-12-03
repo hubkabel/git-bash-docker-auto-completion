@@ -4,3 +4,5 @@ curl https://raw.githubusercontent.com/hubkabel/git-bash-docker-auto-completion/
 curl https://raw.githubusercontent.com/hubkabel/git-bash-docker-auto-completion/master/.docker-compose-autocomplete.sh > ~/.docker-compose-autocomplete.sh
 echo '. ~/.docker-autocomplete.sh' >> ~/.bashrc
 echo '. ~/.docker-compose-autocomplete.sh' >> ~/.bashrc
+
+. ~/.bashrc
